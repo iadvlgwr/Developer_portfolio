@@ -15,10 +15,10 @@ export const experienceData = [
     },
     {
         id: 3,
-        company: 'The Sparks Foundation(internship)',
-        jobtitle: 'web Developer',
-        startYear: 'Dec 2021',
-        endYear: 'Jan 2022'
+        company: 'Times of India',
+        jobtitle: 'Frontend Developer and Project Manager(Freelance)',
+        startYear: 'April 2024',
+        endYear: 'May 2024'
     },
     {
         id: 4,
