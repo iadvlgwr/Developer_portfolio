@@ -13,14 +13,13 @@ function Main() {
 
             <Navbar />        
             <Landing />
-            <About />
-            <Education />
             <Skills />
             <Experience />
             <Projects />
+            <About />
             <Achievement />
             <Services />
-            <Testimonials />
+            <Education />
             <Contacts />
             <Footer />
         </div>

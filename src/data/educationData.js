@@ -2,7 +2,7 @@ export const educationData = [
     {
         id: 1,
         institution: 'Jims Engineering Management Technical Campus',
-        course: 'Bachelor of technology',
+        course: 'Bachelor of technology - 8.75 CGPA',
         startYear: '2019',
         endYear: '2023'
     },

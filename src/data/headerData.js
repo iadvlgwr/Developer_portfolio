@@ -1,9 +1,10 @@
 import resume from '../assets/pdf/resume.pdf';
-import imaage from '../assets/png/imaage.png'
+import imaage from '../assets/png/imaage.jpeg'
 export const headerData = {
     name: 'Adhish Raj',
-    title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
+    title: "Software Developer",
+    desciption:"I am an experienced Frontend Developer specializing in ReactJS and React Native. I build dynamic web and mobile apps with JavaScript frameworks. Key skills: ReactJS, React Native, JavaScript, Node.js, AWS, Redux, Axios, Material-UI. Check out my projects for seamless UIs and robust experiences. Let's create something amazing together!",
+
     image: imaage,
     resumePdf: resume
 }

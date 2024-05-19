@@ -14,13 +14,13 @@ export const servicesData = [
     // },
     {
         id: 2,
-        title: 'Content Writing',
-        icon: <BiPencil /> 
+        title: 'Web Developement',
+        icon: <BsCodeSlash /> 
     },
     {
         id: 3,
-        title: 'Email Marketing',
-        icon: <AiOutlineMail />
+        title: 'Web Design',
+        icon: <BsCodeSlash />
     },
     // {
     //     id: 4,
@@ -35,14 +35,10 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'Web Design',
+        title: 'Project Management',
         icon: <BsCodeSlash />
     },
-    {
-        id: 7,
-        title: 'Photography',
-        icon: <FaCameraRetro />
-    },
+  
     // {
     //     id: 8,
     //     title: 'Pinterest Virtual Assistant',
@@ -50,7 +46,7 @@ export const servicesData = [
     // }, 
     {
         id: 9,
-        title: 'Video Editing',
+        title: 'Debugger and Solution Provider',
         icon: <FaVideo />
     },
     // {
